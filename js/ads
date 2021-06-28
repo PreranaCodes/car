@@ -1,0 +1,15 @@
+class Abc{
+
+constructor(){
+    a=10
+    b=20
+    c=30
+}
+class MNO{
+    setPosition()
+}
+
+}
+
+xyz=new abc();
+xyz.MNO.setPosition
